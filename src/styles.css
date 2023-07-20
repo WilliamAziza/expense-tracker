@@ -1,0 +1,43 @@
+.Header{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.input{
+    background-color: antiquewhite;
+    height: 30px;
+    margin-bottom: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 300px;
+
+
+}
+.Add{
+    background-color: blue;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+}
+
+.Edit{
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    background-color: blueviolet;
+
+}
+.Delete{
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+}
